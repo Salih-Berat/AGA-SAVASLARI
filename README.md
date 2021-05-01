@@ -2,7 +2,7 @@
 ![aga savaşları logo 2 test](https://user-images.githubusercontent.com/70946597/116781941-ee003100-aa8e-11eb-9068-9a7fe090f929.PNG)
 
 
-mythologic.com tarafından yapılmış fakat güncellemeden yoksun pixel bir oyun olan Super Fighters oyununu C# ve Unity ile tekrar yapıp Türkçe,İngilizce,Online,Yeni Modlar ve Haritalar ile güncelleme yapmayı planlıyoruz
+mythologic.com tarafından yapılmış fakat güncellemeden yoksun pixel bir oyun olan Super Fighters oyununu C# ve Unity ile tekrar yapıp Türkçe,İngilizce,Online,Yeni Modlar ve Haritalar ile güncelleme yapmayı planlıyoruz.
 
 İletişim / Contact: acikbulucubirisi@protonmail.com (Kalitrik)
 
