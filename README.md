@@ -4,34 +4,22 @@
 
 mythologic.com tarafından yapılmış fakat güncellemeden yoksun pixel bir oyun olan Super Fighters oyununu C# ve Unity ile tekrar yapıp Türkçe,İngilizce,Online,Yeni Modlar ve Haritalar ile güncelleme yapmayı planlıyoruz
 
-İletişim: acikbulucubirisi@protonmail.com (Kalitrik)
+İletişim / Contact: acikbulucubirisi@protonmail.com (Kalitrik)
 
-İletişim 2: mehmetali345@mehmetali345.xyz (Mehmetali345Dev)
+İletişim / Contact 2: mehmetali345@mehmetali345.xyz (Mehmetali345Dev)
 
-İletişim 3: mehmetpekincee@yandex.com
+İletişim / Contact 3: mehmetpekincee@yandex.com (by-tcmp25)
 
-Discord İletişim: KALİTRİK#0087 (Kalitrik)
+Discord İletişim / Contact: KALİTRİK#0087 (Kalitrik)
 
-Discord İletişim 2: Mehmetali345Dev#9669
+Discord İletişim / Contact 2: Mehmetali345Dev#9669
 
-Discord İletişim 3: ("ZahidPekince")#7548 (by-tcmp25)
+Discord İletişim / Contact 3: ("ZahidPekince")#7548 (by-tcmp25)
 
-Discord Sunucu: https://discord.gg/ck5jXdGRwm
+Discord Sunucu / Server: https://discord.gg/ck5jXdGRwm
 
 We are planning to reproduce Superfighters, a pixel game made by mythologic.com, update with C # and Unity and update it with Turkish, English, Multiplayer, New Mods and Maps.
 
-
-Contact: acikbulucubirisi@protonmail.com (Kalitrik)
-
-Contact 2: mehmetali345@mehmetali345.xyz (Mehmetali345Dev)
-
-Discord Contact: KALİTRİK#0087 (Kalitrik)
-
-Discord Contact 2: Mehmetali345Dev#9669
-
-Discord Contact 3: ("ZahidPekince")#7548 (by-tcmp25)
-
-Discord Server: https://discord.gg/ck5jXdGRwm
 
 # Fikirler kabul edilmektedir. (Oyun motoru vs.) 
 # We are open to ideas such as game engine suggestions.
