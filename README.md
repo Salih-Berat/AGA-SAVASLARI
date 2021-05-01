@@ -21,7 +21,7 @@ Discord Sunucu / Server: https://discord.gg/ck5jXdGRwm
 We are planning to reproduce Superfighters, a pixel game made by mythologic.com, update with C # and Unity and update it with Turkish, English, Multiplayer, New Mods and Maps.
 
 
-# Fikirler kabul edilmektedir. (Oyun motoru güzel yöntemler vb.) 
-# We are open to ideas such as game engine suggestions.
+ İssue üzerinden öneri ve bugları yazabilirsiniz.
+ We are open to ideas such as game engine suggestions.
 ![Aga Savaşları 2](https://user-images.githubusercontent.com/70946597/116781952-fa848980-aa8e-11eb-820d-128c684ead38.png)
 
