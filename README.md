@@ -1,4 +1,4 @@
-# AGA-SAVASLARI - BRO-WARS
+# AGA SAVAŞLARI - BRO WARS
 ![aga savaşları logo 2 test](https://user-images.githubusercontent.com/70946597/116781941-ee003100-aa8e-11eb-9068-9a7fe090f929.PNG)
 
 
