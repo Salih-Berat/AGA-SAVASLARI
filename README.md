@@ -26,5 +26,4 @@ We are planning to reproduce Superfighters, a pixel game made by mythologic.com,
  We are open to ideas such as game engine suggestions.
  
 ![Aga Savaşları 2](https://user-images.githubusercontent.com/70946597/116781952-fa848980-aa8e-11eb-820d-128c684ead38.png)
-https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white%22/%3E
 
