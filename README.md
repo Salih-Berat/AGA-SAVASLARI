@@ -14,7 +14,7 @@ Discord İletişim / Contact: KALİTRİK#0087 (Kalitrik)
 
 Discord İletişim / Contact 2: Mehmetali345Dev#9669
 
-Discord İletişim / Contact 3: ("ZahidPekince")#7548 (by-tcmp25)
+Discord İletişim / Contact 3: StarLord#7548 (by-tcmp25)
 
 Discord Sunucu / Server: Yakında...
 
