@@ -12,7 +12,7 @@ mythologic.com tarafından yapılmış fakat güncellemeden yoksun pixel bir oyu
 
 Discord İletişim / Contact: KALİTRİK#0087 (Kalitrik)
 
-Discord İletişim / Contact 2: Mehmetali345Dev#9669
+Discord İletişim / Contact 2: Mehmetali345Dev#9669(![Profilime bakın öhm](https://github.com/Mehmetali345Dev))
 
 Discord İletişim / Contact 3: StarLord#7548 (by-tcmp25)
 
