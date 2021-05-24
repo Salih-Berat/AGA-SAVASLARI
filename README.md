@@ -16,7 +16,7 @@ Discord İletişim / Contact 2: Mehmetali345Dev#9669(![Profilime bakın öhm](ht
 
 Discord İletişim / Contact 3: StarLord#7548 (by-tcmp25)
 
-Discord Sunucu / Server: Yakında...
+Discord Sunucu / Server: https://discord.gg/h9yN2PRhG7
 
 We are planning to reproduce Superfighters, a pixel game made by mythologic.com, update with C # and Unity and update it with Turkish, English, Multiplayer, New Mods and Maps.
 
