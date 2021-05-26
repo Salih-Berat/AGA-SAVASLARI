@@ -6,13 +6,9 @@ mythologic.com tarafından yapılmış fakat güncellemeden yoksun pixel bir oyu
 
 İletişim / Contact: acikbulucubirisi@protonmail.com (Kalitrik)
 
-İletişim / Contact 2: mehmetali345@mehmetali345.xyz (Mehmetali345Dev)
-
 İletişim / Contact 3: mehmetpekincee@yandex.com (by-tcmp25)
 
 Discord İletişim / Contact: KALİTRİK#0087 (Kalitrik)
-
-Discord İletişim / Contact 2: Mehmetali345Dev#9669(![Profilime bakın öhm](https://github.com/Mehmetali345Dev))
 
 Discord İletişim / Contact 3: StarLord#7548 (by-tcmp25)
 
