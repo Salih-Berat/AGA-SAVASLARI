@@ -6,11 +6,18 @@ mythologic.com tarafından yapılmış fakat güncellemeden yoksun pixel bir oyu
 
 İletişim / Contact: acikbulucubirisi@protonmail.com (Kalitrik)
 
-İletişim / Contact 3: mehmetpekincee@yandex.com (by-tcmp25)
+İletişim / Contact 2: mehmetpekincee@yandex.com (by-tcmp25)
 
-Discord İletişim / Contact: KALİTRİK#0087 (Kalitrik)
+Discord İletişim / Contact: KALİTRİK#0087 (Kalitrik) - Developer
 
-Discord İletişim / Contact 3: StarLord#7548 (by-tcmp25)
+Discord İletişim / Contact 2: StarLord#7548 (by-tcmp25) - Developer
+
+Discord İletişim / Contact 3: You are already dead.#8654 - Pixel Arter
+
+Discord İletişim / Contact 4: ranop#6951 - Pixel Arter 
+
+Discord İletişim / Contact 5: yağmur#8034 - Pixel Arter  
+
 
 Discord Sunucu / Server: https://discord.gg/h9yN2PRhG7
 
